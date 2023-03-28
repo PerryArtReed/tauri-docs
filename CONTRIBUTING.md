@@ -6,6 +6,17 @@ Feel free to open an issue/a PR if you find something wrong in the docs.
 
 Once you have submitted your PR, GitHub automatically builds the site and deploys a temporary preview to Netlify.
 
+## Personas
+
+As writers, personas help us understand and empathize with our documentation readers. We have created four personas to represent the typical experience levels that a reader may have.
+
+1. SAM: professional freelancer; advanced JS and Rust experience
+2. CASEY: corporate employee; loves Rust but has little JS experience
+3. TAYLOR: startup lead developer; knows JS well but is intimidated by Rust
+4. LOGAN: student/hobbyist; just getting started with JS
+
+You can also [view detailed persona cards here.](https://www.figma.com/file/WWB4d6K0FfkhwgZd3omtHm/Persona-Cards?t=rjBNvQfO2Ri56Bot-1)
+
 ## Style
 
 A few style guidelines to help us keep a common style across documents:
